@@ -35,7 +35,7 @@ Prazos de Entrega: Calcular o tempo médio de entrega e identificar os fatores q
 
 
 ## 3. Análise de Satisfação do Cliente
-    a.	Avaliações de Produtos: Analisar a distribuição das avaliações dos produtos e identificar os produtos com as melhores e piores avaliações.
+Avaliações de Produtos: Analisar a distribuição das avaliações dos produtos e identificar os produtos com as melhores e piores avaliações.
 
 ![Avaliações](imagens/avaliação-categorias.png)
 
