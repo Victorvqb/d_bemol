@@ -51,6 +51,6 @@ Análise de Lucratividade por Categoria: Calcular a lucratividade de diferentes 
 
 ##### Os dados apresentados não retratavam os custos dos produtos diretamente, para tal foi considerado a margem de lucro de 20% no preço do produto sem o frete, para gerar o gráfico também foi diminuido as vendas do tipo voucher, com o intuito de aproximar os dados da lucratividade da precisão.
 
-![Avaliações por Categorias](imagens/avaliação-por-categoria.png)
+![Lucratividade](imagens/5-produtos-lucrativos.png)
 
 #### Os dados mostraram a grande dominação de lucratividade no setor de telefonia, seguidos por utilidade domestica, computadores e artes, Com a telefonia tendo quase o dobro da lucratividade das categorias mais proximas a ela.
