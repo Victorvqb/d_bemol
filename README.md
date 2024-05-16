@@ -37,7 +37,7 @@ Prazos de Entrega: Calcular o tempo médio de entrega e identificar os fatores q
 ## 3. Análise de Satisfação do Cliente
 Avaliações de Produtos: Analisar a distribuição das avaliações dos produtos e identificar os produtos com as melhores e piores avaliações.
 
-![Avaliações](imagens/avaliação-categorias.png)
+![Avaliações](imagens/10-avaliações.png)
 
 #### A avaliação de produtos por meio de notas tem se mostrado uma ferramenta valiosa para a tomada de decisões, pois frequentemente oferece insights precisos sobre aspectos positivos e negativos. Muitas vezes, uma avaliação representa uma comunicação direta com o cliente final, tornando-se, assim, crucial. Os dados disponibilizados revelam lacunas no negócio e ajudam na tomada de decisões. Como mostrado nos gráficos, os serviços e seguros são os itens menos agradáveis, o que é de se esperar. Por outro lado, a categoria de áudio carece de atenção, pois é uma parte importante das vendas no mercado brasileiro. Os dados destacam quais produtos são bem recebidos pelos clientes e quais não alcançam suas expectativas. É importante relacionar esses dados com a lucratividade e otimizar as vendas com base nos insights revelados.
 
